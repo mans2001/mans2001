@@ -19,7 +19,7 @@
 
 ### 🔗 Connect with Me :
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/moustafa-ahmed-mansour-701298274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100027788675879" target="_blank"><img src="https://img.shields.io/badge/-FaceBook-385490?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/3li_Alrefaee?t=YvMt60wx-CIUm-FHxYw0bg&s=09" target="_blank"><img src="https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
