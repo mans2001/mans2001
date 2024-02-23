@@ -46,11 +46,9 @@
     ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
     ![proteus](https://img.shields.io/badge/-proteus-05122A?style=flat&logo=bootstrap&logoColor=red)&nbsp;
     ![MATLAB](https://img.shields.io/badge/-MATLAB-%234D4D4D?style=flat&logo=MATLAB)&nbsp;
-   
-<br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-Alrefaee&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mans2001&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=Ali-Alrefaee&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Ali-Alrefaee&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=mans2001&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mans2001&style=for-the-badge">
 </a>
